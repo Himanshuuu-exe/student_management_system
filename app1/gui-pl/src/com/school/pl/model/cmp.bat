@@ -1,0 +1,1 @@
+javac -d C:\Users\chira\javaHC\11july\app1\gui-pl\classes -classpath C:\Users\chira\javaHC\11july\app1\gui-pl\lib\*;C:\Users\chira\javaHC\11july\app1\gui-pl\classes;. *.java
