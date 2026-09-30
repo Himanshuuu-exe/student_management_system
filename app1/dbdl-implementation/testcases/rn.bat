@@ -1,0 +1,1 @@
+java -classpath C:\Users\chira\javaHC\11july\app1\dbdl-implementation\lib\*;C:\Users\chira\javaHC\11july\app1\dbdl-implementation\classes;c:\mysql\*; %1 %2 %3 %4
