@@ -1,0 +1,1 @@
+java -classpath C:\Users\chira\javaHC\11july\app1\dbdl-proxy\lib\*;C:\Users\chira\javaHC\11july\app1\dbdl-proxy\classes;. %1 %2 %3 %4

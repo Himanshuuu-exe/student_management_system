@@ -1,0 +1,1 @@
+javac -classpath C:\Users\chira\javaHC\11july\app1\dbdl-proxy\classes;C:\Users\chira\javaHC\11july\app1\dbdl-proxy\lib\*;. *.java
